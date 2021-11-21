@@ -11,11 +11,13 @@
 | SKILLS  | LANGUAGE/TOOLS |
 | ------------- | ------------- |
 |**Server**| <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> |
-<!--|**Tools**| <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> |
-|**Back-end** |  |
+|**Tools**| <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> |
+<!--|**Back-end** |  |
 |**Front-end**|  |
+|**Frameworks**|  |
 |**Databases**|  |
-|**Mobile Dev**|  |-->
+|**Mobile Dev**|  |
+-->
 
 <h2> Connect with me :handshake: </h2>
 <div align="center">
