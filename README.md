@@ -19,6 +19,10 @@
 |**Mobile Dev**|  |
 -->
 
+<h2>Github Stats 📊 </h2>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=maulidandev&theme=react-dark&hide_border=true&area=true)
+
 <h2> Connect with me :handshake: </h2>
 <div align="center">
 
