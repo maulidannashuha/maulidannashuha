@@ -25,22 +25,27 @@
 <h2>Github Stats 📊 </h2>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=maulidandev&theme=react-dark&hide_border=true&area=true)
-
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=maulidandev&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=maulidandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
 <h2> Connect with me :handshake: </h2>
 <div align="center">
-
-<a href="https://www.linkedin.com/in/maulidandev/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.linkedin.com/in/maulidandev/" target="_blank">
-<img src="https://img.shields.io/badge/Github-%fedcba.svg?&style=flat-square&logo=github&logoColor=white&color=black" alt="Github">
-</a>
-<a href="https://www.instagram.com/maulidannashuha/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://twitter.com/maulidandev" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-</a>
+  <a href="https://www.linkedin.com/in/maulidandev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.linkedin.com/in/maulidandev/" target="_blank">
+    <img src="https://img.shields.io/badge/Github-%fedcba.svg?&style=flat-square&logo=github&logoColor=white&color=black" alt="Github">
+  </a>
+  <a href="https://www.instagram.com/maulidannashuha/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://twitter.com/maulidandev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+ </div>
 <!--<a href="https://dev.to/ABSphreak" target="_blank">
 <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to">
 </a>
@@ -51,7 +56,7 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 -->
-</div>
+  
 <!--
 **maulidandev/maulidandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
