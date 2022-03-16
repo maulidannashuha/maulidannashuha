@@ -25,12 +25,19 @@
 <h2>Github Stats 📊 </h2>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=maulidandev&theme=react-dark&hide_border=true&area=true)
+<div align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=maulidandev&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=maulidandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
+    <br/><br/><br/><br/><br/><br/><br/>
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=maulidandev&theme=algolia&title=MultiLanguage,Repositories,Commit,Follower,Issues&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+    
+</div>
+    
 <h2> Connect with me :handshake: </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/maulidandev/" target="_blank">
