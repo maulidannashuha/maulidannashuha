@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning Full Stack Development
 - 💬 Ask me about anything!
-- 📫 How to reach me : <a href="https://www.linkedin.com/in/maulidandev/" target="_blank">Here</a>
+- 📫 How to reach me : <a href="https://www.linkedin.com/in/maulidannashuha/" target="_blank">Here</a>
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/maulidandev/maulidandev/main/Night-Coding.gif" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/maulidannashuha/maulidannashuha/main/Night-Coding.gif" />
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
 
@@ -24,32 +24,32 @@
 
 <h2>Github Stats 📊 </h2>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=maulidandev&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=maulidannashuha&theme=react-dark&hide_border=true&area=true)
 <div align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=maulidandev&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=maulidannashuha&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=maulidandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=maulidannashuha&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
     <br/><br/><br/><br/><br/><br/><br/>
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=maulidandev&theme=algolia&title=MultiLanguage,Repositories,Commit,Follower,Issues&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maulidannashuha&theme=algolia&title=MultiLanguage,Repositories,Commit,Follower,Issues&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
     
 </div>
     
 <h2> Connect with me :handshake: </h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/maulidandev/" target="_blank">
+  <a href="https://www.linkedin.com/in/maulidannashuha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.linkedin.com/in/maulidandev/" target="_blank">
+  <a href="https://www.linkedin.com/in/maulidannashuha/" target="_blank">
     <img src="https://img.shields.io/badge/Github-%fedcba.svg?&style=flat-square&logo=github&logoColor=white&color=black" alt="Github">
   </a>
   <a href="https://www.instagram.com/maulidannashuha/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://twitter.com/maulidandev" target="_blank">
+  <a href="https://twitter.com/ngodingsolusi" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
  </div>
