@@ -46,7 +46,7 @@
   <a href="https://www.github.com/maulidannashuha/" target="_blank">
     <img src="https://img.shields.io/badge/Github-%fedcba.svg?&style=flat-square&logo=github&logoColor=white&color=black" alt="Github">
   </a>
-  <a href="https://www.instagram.com/maulidannashuha/" target="_blank">
+  <a href="https://www.instagram.com/ngodingsolusi/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://twitter.com/ngodingsolusi" target="_blank">
